@@ -1,9 +1,9 @@
 # CONTACTS APP  
-![Contacs App ScreenShot](https://user-images.githubusercontent.com/77458139/209136839-be447f5f-a809-472f-b9b3-48b037b4f9d4.png)
+![Contacs App ScreenShot](https://user-images.githubusercontent.com/77458139/209137772-40363dcb-0537-4973-b366-9f0f0687d7e8.png)
 
-With the form, the person can make it appear on the screen by pressing the Add button after entering the name and phone number.   
-In the filtering section, filtering can be done by phone number and name.  
-This process was done with React.
+- With the form, the person can make it appear on the screen by pressing the Add button after entering the name and phone number.   
+- In the filtering section, filtering can be done by phone number and name.  
+- This process was done with React.
 ##
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
