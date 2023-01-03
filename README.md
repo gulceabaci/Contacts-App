@@ -4,6 +4,7 @@
 - With the form, the person can make it appear on the screen by pressing the Add button after entering the name and phone number.   
 - In the filtering section, filtering can be done by phone number and name.  
 - This process was done with React.
+- Thank you for giving a time..
 ##
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
